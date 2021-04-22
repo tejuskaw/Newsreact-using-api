@@ -1,0 +1,22 @@
+.logo {
+  font-size: 34px;
+  margin-top: 2px;
+  margin-bottom: 18px;
+}
+i {
+  font-size: 30px;
+  cursor: pointer;
+  margin-bottom: 80px;
+}
+.active {
+  color: red;
+}
+.side {
+  height: 100vh;
+  width: 7%;
+  align-items: center;
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
