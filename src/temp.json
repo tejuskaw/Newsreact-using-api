@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 993,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Google and Apple attacked on app store 'monopoly'",
+      "description": "Republican and Democrat senators criticise Apple and Google for alleged anti-competitive behaviour.",
+      "url": "https://www.bbc.co.uk/news/technology-56840379",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85A7/production/_118151243_screenshot2021-04-21at17.18.26.png",
+      "publishedAt": "2021-04-22T00:37:54Z",
+      "content": "By James ClaytonNorth America technology reporter\r\nimage copyrightGetty Images\r\nimage captionGoogle's Sundar Pichai and Apple's Tim Cook\r\nSenators have grilled Apple and Google in Washington over \"an… [+3240 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Apple plans to expand ads business - FT - Reuters",
+      "description": "Apple Inc (AAPL.O) is planning to expand its advertising business by adding a second advertising slot in its App Store search page's \"suggested\" section, the Financial Times reported on Thursday.",
+      "url": "https://www.reuters.com/business/media-telecom/apple-plans-expands-ads-business-ft-2021-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/gieh_f2hApDhZG9ShRG9L9J2f4E=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/U6OPUFUUYBI73LVJRQZIXZFHPE.jpg",
+      "publishedAt": "2021-04-22T04:43:00Z",
+      "content": "Apple Inc (AAPL.O) is planning to expand its advertising business by adding a second advertising slot in its App Store search page's \"suggested\" section, the Financial Times reported on Thursday.\r\nTh… [+646 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Padraic Halpin",
+      "title": "Analysis: Low-tax Ireland plays damage limitation card as global overhaul beckons - Reuters",
+      "description": "Ireland, resigned to having much to lose from a global overhaul of how multinational companies are taxed, has embarked on a damage limitation exercise that it hopes will let it and other low-tax economies retain some of their decades-old advantages.",
+      "url": "https://www.reuters.com/world/europe/low-tax-ireland-plays-damage-limitation-card-global-overhaul-beckons-2021-04-22/",
+      "urlToImage": "https://www.reuters.com/resizer/YZSDY9vcVWQ4eCCi4SBdlTBphBY=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/GQZV57HYPJJLNJMZNRFU5HOWEI.jpg",
+      "publishedAt": "2021-04-22T09:28:00Z",
+      "content": "Outside view of the Organization for Economic Co-operation and Development, (OECD) headquarters in Paris September 3, 2009. REUTERS/Charles Platiau/File PhotoIreland, resigned to having much to lose … [+4101 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Yawen Chen",
+      "title": "Anta bets Chinese shopping nationalism won't last - Reuters",
+      "description": "Nike’s (NKE.N) Chinese challenger has cashed out of a nationalist shopping spree early. The controlling shareholder of Anta Sports (2020.HK), a $46 billion sportswear maker, will pocket a whopping $1.5 billion in a rare share sale. The deal comes after Chines…",
+      "url": "https://www.reuters.com/breakingviews/anta-bets-chinese-shopping-nationalism-wont-last-2021-04-22/",
+      "urlToImage": null,
+      "publishedAt": "2021-04-22T03:43:00Z",
+      "content": "Nikes (NKE.N) Chinese challenger has cashed out of a nationalist shopping spree early. The controlling shareholder of Anta Sports (2020.HK), a $46 billion sportswear maker, will pocket a whopping $1.… [+3456 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "Jerry Hildenbrand",
+      "title": "Android 12 features we love: Notifications keep getting better",
+      "description": "Notifications are a big part of the Android experience, and Android 12 brings another big change.\n\nI'll bet the \"thing\" on your phone you look at the most is the notification shade. No matter if you have one of the best budget Android phones or something more…",
+      "url": "https://www.androidcentral.com/android-12-features-we-love-notifications-keep-getting-better",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/02/android-12-ac-homepage-1.jpg",
+      "publishedAt": "2021-04-22T11:00:03Z",
+      "content": "Source: Jerry Hildenbrand / Android Central\r\nI'll bet the \"thing\" on your phone you look at the most is the notification shade. No matter if you have one of the best budget Android phones or somethin… [+5016 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Sami Fathi",
+      "title": "Apple Celebrates Earth Day 2021 With Specially Curated Content in Apple TV+, App Store, and More",
+      "description": "In celebration of Earth Day 2021 being held today, Apple is bringing specially curated content to the App Store, Apple TV+, Apple Podcasts, and Apple Maps to highlight mother nature and the environment.\n\n\n\n\n\nIn the Apple TV and Apple Books app, Apple will hig…",
+      "url": "https://www.macrumors.com/2021/04/22/earth-day-2021-collections/",
+      "urlToImage": "https://images.macrumors.com/t/ErEUDy4NKkh5gOcukBfzND425-4=/1960x/https://images.macrumors.com/article-new/2021/04/earth-day-2021-content.jpg",
+      "publishedAt": "2021-04-22T06:56:36Z",
+      "content": "In celebration of Earth Day 2021 being held today, Apple is bringing specially curated content to the App Store, Apple TV+, Apple Podcasts, and Apple Maps to highlight mother nature and the environme… [+1558 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Tim Hardwick",
+      "title": "Apple Maps Native Ratings System Coming to US Places of Interest, Perhaps as Early as Next Week",
+      "description": "With the release of iOS 14 and macOS 11, Apple introduced a new way for users to review places of interest and upload photos to Apple Maps that doesn't rely on third party integrations like Yelp and TripAdvisor.\n\n\n\n\n\nUsers who tap a marker for a place on the …",
+      "url": "https://www.macrumors.com/2021/04/22/apple-maps-ratings-places-interest-us/",
+      "urlToImage": "https://images.macrumors.com/t/LGzbtbBgVh0aoKP4wGf4OfPAAT8=/2250x/https://images.macrumors.com/article-new/2021/02/ios-14.5-maps-feature.jpg",
+      "publishedAt": "2021-04-22T10:43:44Z",
+      "content": "With the release of iOS 14 and macOS 11, Apple introduced a new way for users to review places of interest and upload photos to Apple Maps that doesn't rely on third party integrations like Yelp and … [+1524 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Tim Hardwick",
+      "title": "Bloomberg: iOS 15 to Bring Redesigned iPad Home Screen, Updated Lock Screen, New Notification and Security Options",
+      "description": "Apple will introduce several new features and enhancements in iOS 15 and iPadOS 15 later this year, including a redesigned Home Screen for iPad, an updated Lock Screen, and new notification preferences for users, according to Bloomberg's Mark Gurman.\n\n\n\n\n\nFro…",
+      "url": "https://www.macrumors.com/2021/04/22/bloomberg-apple-plans-imessage-upgrades/",
+      "urlToImage": "https://images.macrumors.com/t/DgRmk-qEAs8zrmZxFbpTfW_z6jo=/1920x/https://images.macrumors.com/article-new/2021/01/iOS-15-icon-mock-in-article.jpg",
+      "publishedAt": "2021-04-22T10:56:46Z",
+      "content": "Apple will introduce several new features and enhancements in iOS 15 and iPadOS 15 later this year, including a redesigned Home Screen for iPad, an updated Lock Screen, and new notification preferenc… [+2544 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Juli Clover",
+      "title": "Apple Adds New 'Hello' Screen Saver in macOS Big Sur 11.3",
+      "description": "macOS Big Sur 11.3 includes a hidden \"Hello\" screen saver that appears to be designed for the new iMac models, but which can also be installed on any Mac that's running the 11.3 update.\n\n\n\n\n\nAs outlined by 9to5Mac, the new screen saver is not available by def…",
+      "url": "https://www.macrumors.com/2021/04/21/hello-screen-saver-macos-big-sur-11-3/",
+      "urlToImage": "https://images.macrumors.com/t/TYgzjgWhjS3OCQNYNoGkF15x-oY=/2000x/https://images.macrumors.com/article-new/2021/04/hello-screen-saver-1.jpg",
+      "publishedAt": "2021-04-22T00:39:47Z",
+      "content": "macOS Big Sur 11.3 includes a hidden \"Hello\" screen saver that appears to be designed for the new iMac models, but which can also be installed on any Mac that's running the 11.3 update.\r\nAs outlined … [+1355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketBeat" },
+      "author": "Kate Stalter",
+      "title": "The Top 3 S&P Performers May Not Be What You Think",
+      "description": "We’re accustomed to hearing a lot about the biggest domestic stocks, those most heavily weighted in the S&P 500, but not so much top performers like L Brands (NYSE: LB), The Gap (NYSE: GPS), and Diamondback Energy (NASDAQ: FANG).",
+      "url": "https://www.marketbeat.com/originals/the-top-3-s-and-p-performers-may-not-be-what-you-think/?utm_source=entrepreneurcom&amp;amp;utm_medium=entrepreneurcom",
+      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-370084.jpeg",
+      "publishedAt": "2021-04-22T10:50:00Z",
+      "content": "April\r\n22, 2021\r\n4 min read\r\nThis story originally appeared on MarketBeat\r\nWe’re accustomed to hearing a lot about the biggest domestic stocks, those most heavily weighted in the S&amp;P 500, but not… [+4349 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Entrepreneur" },
+      "author": "Wayra Hispanoamérica",
+      "title": "Challenges and opportunities for entrepreneurs during the pandemic",
+      "description": "In the first five weeks of confinement, society and economies were digitized more than in the previous five years",
+      "url": "https://www.entrepreneur.com/article/370066",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1619027237-digitalizacion.jpg",
+      "publishedAt": "2021-04-22T05:38:00Z",
+      "content": "April\r\n22, 2021\r\n5 min read\r\nThis article was translated from our Spanish edition using AI technologies. Errors may exist due to this process.\r\nOpinions expressed by Entrepreneur contributors are the… [+3993 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Ivan Mehta",
+      "title": "iOS 14.5 is rolling out next week — here are its best new features",
+      "description": "Apple announced a ton of devices at its ‘Spring Loaded event’. But what the company kept for footnotes was the fact that the iOS 14.5 update is rolling out next week. The much-anticipated update — which brings multiple useful additions, such as unlocking your…",
+      "url": "https://thenextweb.com/news/apple-ios-14-5-rollout-features-april-30",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FiOS-14-hidden-features.jpg&signature=bc7902c98afc05a7ee1a1f1eef42791c",
+      "publishedAt": "2021-04-22T10:26:15Z",
+      "content": "Apple announced a ton of devices at its Spring Loaded event. But what the company kept for footnotes was the fact that the iOS 14.5 update is rolling out next week.\r\nThe much-anticipated update which… [+1921 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Freakonomics.com" },
+      "author": "Stephen J. Dubner",
+      "title": "Let’s Be Blunt: Marijuana Is a Boon for Older Workers (Ep. 459)",
+      "description": "The state-by-state rollout of legalized weed has given economists a perfect natural experiment to measure its effects. Here’s what we know so far — and don’t know — about the costs and benefits of legalization.\nThe post Let’s Be Blunt: Marijuana Is a Boon for…",
+      "url": "https://freakonomics.com/podcast/marijuana-legalization/",
+      "urlToImage": "https://freakonomics.com/wp-content/uploads/2020/08/fr.fbthumbnail.png",
+      "publishedAt": "2021-04-22T03:00:08Z",
+      "content": "The state-by-state rollout of legalized weed has given economists a perfect natural experiment to measure its effects.Heres what we know so far and dont know about the costs and benefits of legalizat… [+38651 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Cristian Rus",
+      "title": "Un grupo de hackers dice tener los prototipos de los últimos MacBook de Apple: piden un rescate de 50 millones de dólares",
+      "description": "Un grupo de hackers llamado REvil, también conocido como Sodinokibi, dice tener los planos de los próximos productos de Apple. Tras haberse infiltrado en los ordenadores de Quanta Computer Inc., uno de los proveedores de Apple, se ha hecho con planos y protot…",
+      "url": "https://www.xataka.com/seguridad/grupo-hackers-dice-tener-prototipos-ultimos-macbook-apple-piden-rescate-50-millones-dolares",
+      "urlToImage": "https://i.blogs.es/925f6c/apple-park-drone-june-2018-2/840_560.jpg",
+      "publishedAt": "2021-04-22T05:30:43Z",
+      "content": "Un grupo de hackers llamado REvil, también conocido como Sodinokibi, dice tener los planos de los próximos productos de Apple. Tras haberse infiltrado en los ordenadores de Quanta Computer Inc., uno … [+2240 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Manytricks.com" },
+      "author": "John Gruber",
+      "title": "Menuwhere 1.0",
+      "description": "Say hello to Menuwhere, Many Tricks’ newest app. This handy $3 utility puts the frontmost app’s menu bar into a pop-up menu at your mouse’s location—say goodbye to those long trip…",
+      "url": "https://manytricks.com/blog/?p=5414",
+      "urlToImage": "https://s0.wp.com/i/blank.jpg",
+      "publishedAt": "2021-04-22T00:29:07Z",
+      "content": "Say hello to Menuwhere, Many Tricks’ newest app. This handy $3 utility puts the frontmost app’s menu bar into a pop-up menu at your mouse’s locationsay goodbye to those long trips to the menu bar; th… [+1852 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Losaltosonline.com" },
+      "author": "John Gruber",
+      "title": "The Harrowing Tale of Chuck Geschke’s 1992 Kidnapping",
+      "description": "Chuck Geschke woke several times the night before his only daughter Kathy&rsquo;s June wedding day, anxiously pondering the toast he would give at her reception. Though as Adobe Systems&rsquo; Chairman of the Board, he was accustomed to speaking before hundre…",
+      "url": "https://www.losaltosonline.com/news/sections/news/215-news-briefs/20556-J18583",
+      "urlToImage": "https://www.losaltosonline.com/images/web/town_crier_front_door_photo_small.jpg",
+      "publishedAt": "2021-04-22T00:25:03Z",
+      "content": "Adobe chairman Chuck Geschke and family vividly recall five harrowing days that changed their lives forever\r\nEDITOR’S NOTE: The kidnapping of Adobe Systems co-founder and prominent Los Altos resident… [+18492 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Clover Hope, Kate Dries",
+      "title": "Aneesa Ferreira Will Do ‘The Challenge’ Until She Can’t",
+      "description": "Fresh off one season and knee deep in another, 'The Challenge' star’s career trajectory reflects the past and future of the genre.",
+      "url": "https://www.vice.com/en/article/jg8xb3/aneesa-ferreira-the-challenge-mtv-reality-tv",
+      "urlToImage": "https://video-images.vice.com/articles/607f18711e193200978b5031/lede/1618942122968-aneeshafinalbannercrop.jpeg?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+      "publishedAt": "2021-04-22T11:00:00Z",
+      "content": "Aneesa Ferreira had what she calls a “spiral day” while filming the latest season of MTV’s The Challenge. Her then-partner, Fessy Shafaat, had been actively campaigning to dump her. Her best friend a… [+22020 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Benjamin Mayo",
+      "title": "David Attenborough documentary sets record for Apple TV+ as it announces more unscripted content",
+      "description": "As reported by Deadilne, Apple TV+’s latest film ‘The Year Earth Changed’ has set new viewership records for the company’s unscripted content. The documentary is the most viewed documentary or docuseries currently on Apple TV+ in the US and in many regions ar…",
+      "url": "https://9to5mac.com/2021/04/22/apple-tv-plus-documentary-record/",
+      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/The_Year_Earth_Changed_Photo_0106.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-04-22T09:34:19Z",
+      "content": "As reported by Deadilne, Apple TV+’s latest film ‘The Year Earth Changed’ has set new viewership records for the company’s unscripted content. The documentary is the most viewed documentary or docuse… [+1296 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Benjamin Mayo",
+      "title": "Apple expanding its App Store ads business, rolling out ‘suggested’ app ads",
+      "description": "9to5Mac reported in February that Apple was testing a new ad slot in the iOS 14.5 beta. Pictured above, the ad appears on the main page of the App Store’s Search tab, before the user has entered a search query. This joins existing App Store ads that appear al…",
+      "url": "https://9to5mac.com/2021/04/22/apple-expanding-its-app-store-ads-business-rolling-out-suggested-app-ads/",
+      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/03/app-store-search-tab.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-04-22T09:09:56Z",
+      "content": "9to5Mac reported in February that Apple was testing a new ad slot in the iOS 14.5 beta. Pictured above, the ad appears on the main page of the App Store’s Search tab, before the user has entered a se… [+2373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Benjamin Mayo",
+      "title": "Bloomberg: iOS 15 to feature redesigned iPad home screen, new notifications features",
+      "description": "Apple is developing some major improvements for the iPad Home Screen according to a new report by Mark Gurman for Bloomberg.\nThis will include adding widgets to the Home Screen, just like iOS 14 enabled widgets on the iPhone Home Screen.\n more…\nThe post Bloom…",
+      "url": "https://9to5mac.com/2021/04/22/bloomberg-ios-15-to-feature-redesigned-ipad-home-screen-new-notifications-features/",
+      "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/coverforipad15.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-04-22T10:52:38Z",
+      "content": "Apple is developing some major improvements for the iPad home screen as part of the next major operating system, iOS and iPadOS 15, according to a new report by Mark Gurman for Bloomberg.\r\nThis will … [+564 chars]"
+    }
+  ]
+}

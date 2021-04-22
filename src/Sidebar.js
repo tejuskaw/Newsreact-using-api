@@ -5,14 +5,14 @@ const Sidebar = () => {
   const [Active, changeActive] = useState('home')
   return (
     <div className='side'>
-      <h3 className='logo'>
+      <div className='logo'>
         <i
           class='fab fa-neos'
           onClick={() => changeActive('home')}
           style={{ marginBottom: 0 }}
         ></i>
-      </h3>
-
+      </div>
+      <div className="icons">
       <i
         onClick={() => changeActive('home')}
         className={'fas fa-home ' + (Active === 'home' ? 'active' : '')}
@@ -31,6 +31,7 @@ const Sidebar = () => {
           'far fa-user-circle ' + (Active === 'account' ? 'active' : '')
         }
       ></i>
+      </div>
     </div>
   )
 }

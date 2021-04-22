@@ -1,4 +1,4 @@
-.logo {
+/*.logo {
   font-size: 34px;
   margin-top: 2px;
   margin-bottom: 18px;
@@ -13,10 +13,30 @@ i {
 }
 .side {
   height: 100vh;
-  width: 7%;
   align-items: center;
   background-color: yellow;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+}*/
+.side{
+  height: 100vh;}
+.logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5%;
+}
+.icons {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; 
+  height: 95%
+}
+.active {
+  color: red;
+}
+.icons > i{
+  cursor: pointer;
 }

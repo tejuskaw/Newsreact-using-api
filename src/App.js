@@ -5,7 +5,7 @@ import News from './News'
 export default class App extends Component {
   render() {
     return (
-      <div style={{ display: 'flex' }}>
+      <div className="App">
         <div className='main'>
           <Sidebar />
         </div>
