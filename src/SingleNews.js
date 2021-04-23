@@ -1,12 +1,10 @@
 import React from 'react'
 import './css/singlenews.css'
 const SingleNews = ({ author, title, url, image, date, content }) => {
-  const kya = date
-  console.log(date.substring(5,7))
   const months = ['January' , 'February' , 'March' , 'April' , 'May' , 'June', 'July' , 'August' , 'September' , 'October' , 'November' , 'December']
 
   return (
-    <a className='overall' href={url} target='_blank' style={{display:'flex', alignItems:'center',justifyContent:'center',marginTop:"50px" , color:"black"}}>
+    <a className='overall' href={url} target='_blank' rel='noreferrer' style={{display:'flex', alignItems:'center',justifyContent:'center',marginTop:"50px" , color:"black"}}>
       <div className='card'>
         <div
           className='wrapper'
