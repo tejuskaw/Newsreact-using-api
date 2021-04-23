@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tejvirus0003/Newsreact/static/css/main.3d87b19a.chunk.css",
-    "main.js": "/tejvirus0003/Newsreact/static/js/main.57cb9916.chunk.js",
-    "main.js.map": "/tejvirus0003/Newsreact/static/js/main.57cb9916.chunk.js.map",
+    "main.css": "/tejvirus0003/Newsreact/static/css/main.407abb7d.chunk.css",
+    "main.js": "/tejvirus0003/Newsreact/static/js/main.5113f15a.chunk.js",
+    "main.js.map": "/tejvirus0003/Newsreact/static/js/main.5113f15a.chunk.js.map",
     "runtime-main.js": "/tejvirus0003/Newsreact/static/js/runtime-main.188c1ef9.js",
     "runtime-main.js.map": "/tejvirus0003/Newsreact/static/js/runtime-main.188c1ef9.js.map",
     "static/js/2.624ee390.chunk.js": "/tejvirus0003/Newsreact/static/js/2.624ee390.chunk.js",
     "static/js/2.624ee390.chunk.js.map": "/tejvirus0003/Newsreact/static/js/2.624ee390.chunk.js.map",
     "index.html": "/tejvirus0003/Newsreact/index.html",
-    "static/css/main.3d87b19a.chunk.css.map": "/tejvirus0003/Newsreact/static/css/main.3d87b19a.chunk.css.map",
+    "static/css/main.407abb7d.chunk.css.map": "/tejvirus0003/Newsreact/static/css/main.407abb7d.chunk.css.map",
     "static/js/2.624ee390.chunk.js.LICENSE.txt": "/tejvirus0003/Newsreact/static/js/2.624ee390.chunk.js.LICENSE.txt",
     "static/media/main.css": "/tejvirus0003/Newsreact/static/media/wallpaper.d9bd700c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.188c1ef9.js",
     "static/js/2.624ee390.chunk.js",
-    "static/css/main.3d87b19a.chunk.css",
-    "static/js/main.57cb9916.chunk.js"
+    "static/css/main.407abb7d.chunk.css",
+    "static/js/main.5113f15a.chunk.js"
   ]
 }
