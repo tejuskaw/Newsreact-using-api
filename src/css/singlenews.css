@@ -13,7 +13,8 @@ a {
   text-decoration: none;
 }
 .card {
-  width: 70%;
+  width: 370px;
+  margin: 15px;
 }
 .card .menu-content {
   margin: 0;

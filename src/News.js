@@ -12,7 +12,7 @@ const News = () => {
       .then((f) => changearr(f['data']['articles']))
   }, [])
   return (
-    <div>
+    <div style={{ display: 'flex', flexWrap: 'wrap', padding: '40px' }}>
       {dataarr.map((e, index) => (
         <SingleNews
           key={index}
