@@ -1,8 +1,12 @@
 import React from 'react'
-import '/home/kaw/newswebsite/src/css/singlenews.css'
+import './css/singlenews.css'
 const SingleNews = ({ author, title, url, image, date, content }) => {
+  const kya = date
+  console.log(date.substring(5,7))
+  const months = ['January' , 'February' , 'March' , 'April' , 'May' , 'June', 'July' , 'August' , 'September' , 'October' , 'November' , 'December']
+
   return (
-    <a className='overall' href={url} target='_blank'>
+    <a className='overall' href={url} target='_blank' style={{display:'flex', alignItems:'center',justifyContent:'center',marginTop:"50px" , color:"black"}}>
       <div className='card'>
         <div
           className='wrapper'
@@ -13,9 +17,9 @@ const SingleNews = ({ author, title, url, image, date, content }) => {
           }}
         >
           <div className='date'>
-            <span className='day'>12</span>
-            <span className='month'>Aug</span>
-            <span className='year'>2016</span>
+            <span className='day'>{date.substring(8,10)}</span>
+            <span className='month'>{months[parseInt(date.substring(5,7))]}</span>
+            <span className='year'>{date.substr(0,4)}</span>
           </div>
           <div className='data'>
             <div className='content'>

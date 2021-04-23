@@ -11,7 +11,6 @@ const News = () => {
       )
       .then((f) => changearr(f['data']['articles']))
   }, [])
-  console.log(dataarr)
   return (
     <div>
       {dataarr.map((e, index) => (
@@ -21,8 +20,8 @@ const News = () => {
           title={e['title']}
           url={e['url']}
           image={e['urlToImage']}
-          date={e['description']}
-          content={e['content']}
+          date={e['publishedAt']}
+          content={e['description']}
         />
       ))}
     </div>

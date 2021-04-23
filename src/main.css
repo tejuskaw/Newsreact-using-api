@@ -10,7 +10,8 @@
 }
 .news {
   width: 95%;
-  background-color: green;
+  background-image: url(./wallpaper.jpg);
+  background-size: cover; 
   overflow-y: scroll;
   display: grid;
 }
